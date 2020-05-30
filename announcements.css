@@ -1,0 +1,23 @@
+.post-box{
+	margin: 10px;
+}
+.edit,.delete{
+	position: relative;
+	float: right;
+	
+}
+.btn{
+	position: relative;
+	float: right;
+	margin: 10px;
+}
+.alert{
+	text-align: center;
+	width: 60%;
+	left: 10%;
+}
+.text-bottom{
+	position: absolute;
+	bottom: 5px;
+	background-color: rgb(130,181,226);
+}
